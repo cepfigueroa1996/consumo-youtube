@@ -1,24 +1,16 @@
 # youtube
 
-## Project setup
+## Clonar proyecto
 ```
-npm install
+git clone https://github.com/cepfigueroa1996/consumo-youtube.git
+```
+### Instalar
+```
+npm run install
 ```
 
-### Compiles and hot-reloads for development
+### Correr en desarrollo
 ```
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
