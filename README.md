@@ -14,5 +14,10 @@ npm run install
 ### Correr en desarrollo
 ```
 npm run serve
+```
 
+### Documentaciòn
+```
+Para hacer uso del proyecto ese necesario que vayas a la API de youtube y crees unas credenciales, en el archivo 
+/src/store/index.js encontraras  keyToken:['API KEY'] en el state alli debes agregar tu API KEY para comenzar a utilizar la aplicaciòn.
 
